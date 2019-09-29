@@ -1,0 +1,157 @@
+.wrapper{
+	height: 1400px;
+	width: 1000px;
+	font-family: arial;
+	background: yellow;
+	margin:0 auto;
+}
+.header{
+	height: 15%;
+	width: 100%;
+}
+.logo{
+	float: left;
+}
+.title{
+	float: left;
+	text-align: center;
+	padding: 10%;
+}
+.content{
+	height: 75%;
+	width: 100%;
+}
+#left-content{
+	height: 100%;
+	width: 70%;
+	float: left;
+}
+#hirigana-div{
+	height: 10%;
+	width: 90%;
+	padding: 5%;
+}
+#katakana-div{
+	height: 10%;
+	width: 90%;
+	padding: 5%;
+}
+#kanji-div{
+	height: 10%;
+	width: 90%;
+	padding: 5%;
+}
+#vocab-div{
+	height: 10%;
+	width: 90%;
+	padding: 5%;
+}
+#romaji-div{
+	height: 10%;
+	width: 90%;
+	padding: 5%;
+}
+#youtube-div{
+	height: 10%;
+	width: 90%;
+	padding: 5%;
+	text-align: center;
+}
+#contact-div{
+	height: 10%;
+	width: 90%;
+	padding: 5%;
+	background-color: orange;
+}
+#right-content{
+	height: 100%;
+	width: 30%;
+	float: left;
+}
+#insta-div{
+	height: 30%;
+	width: 90%;
+	padding: 2%;
+	float: left;
+}
+#twitter-div{
+	height: 50%;
+	width: 90%;
+	padding: 2%;
+	float: left;
+}
+.mainbutton{
+	height: 100%;
+	width: 100%;
+	background-color: grey;
+	color: white;
+	text-align: center;
+}
+.para{
+	text-align: center;
+}
+#twitter{
+	height: 50%;
+	width: 90%;
+}
+.list-div{
+	margin:0 auto;
+}
+.mainlist{
+	height: 25%;
+	width: 90%;
+	overflow: hidden;
+	margin:0 auto;
+}
+li{
+	float: right;
+}
+li a{
+    display: block;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+	background-color: #111111;
+	color: #ebeeeb;
+}
+li a:hover{
+	background-color: #333333;
+}
+#slideshow{
+	height: 25%;
+	width: 40%;
+	margin:0 auto;
+}
+.twitter-timeline{
+	height: 100%;
+	width: 60%;
+	margin:0 auto;
+}
+#images{
+	height: 15%;
+	width: 100%;
+}
+.image{
+	height: 100%;
+	width: 30%;
+	padding: 1%;
+	float: left;
+}
+#last{
+	height: 40%;
+	width: 100%;
+}
+.text{
+	height: 100%;
+	width: 50%;
+	float: left;
+}
+#img{
+	height: 100%;
+	width: 50%;
+	float: left;
+}
+#yt-vid{
+	height: 100%;
+	width: 35%;
+}
